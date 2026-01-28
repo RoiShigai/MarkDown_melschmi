@@ -5,8 +5,8 @@ MarkDown Tutors of crepe recipe but without the crepes
 
 # Exercice Markdown : La Recette des Crêpes  
 
-<img src="crepes_sucree2.jpg" width="400" height="300"/>
-<img src="crepes_sales2.jpg" width="400" height="300"/>
+<img src="https://www.pratique.ch/storage/2018/05/crepes-sucrees.jpg" width="400" height="300"/>
+<img src="https://as2.ftcdn.net/v2/jpg/02/59/89/49/1000_F_259894941_tEwDk9DDEAzn84O0NUTOou5Iu0EcNlJ7.jpg" width="400" height="300"/>
 
 ## Ingrédients principaux:  
 **Pour environ 12 à 15 crêpes, vous aurez besoin de :**
